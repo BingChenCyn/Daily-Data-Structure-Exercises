@@ -3,6 +3,7 @@ Reference: https://github.com/youngyangyang04/leetcode-master
 ### array
 ##### 704. Binary Search
 [Question](https://leetcode-cn.com/problems/binary-search/)
+[Answer](https://leetcode-cn.com/problems/binary-search/)
 
 ##### 27. Remove Element
 [Question](https://leetcode-cn.com/problems/remove-element/)
